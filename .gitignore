@@ -9,4 +9,5 @@
 /vendor/
 .env
 composer.lock
+symfony.lock
 ###< symfony/framework-bundle ###
